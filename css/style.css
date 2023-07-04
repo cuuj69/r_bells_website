@@ -16,7 +16,7 @@ a:hover{ color:#e66939; text-decoration: none; outline:none}
 
 body{background: #f19d3d; border:0; font: 13px 'Roboto', Arial, Helvetica, sans-serif; color:#48443e ; line-height:18px; min-width:320px;}
 
-#main{margin: 0 auto; position: relative; overflow: hidden; padding-top: 10px;background:url(../images/px1.jpg) #fff; }
+#main{margin: 0 auto; position: relative; overflow: hidden; padding-top: 10px; /*background:url(../images/px1.jpg) #fff;*/ } 
 
 header{position: absolute; left: 0; top: 15px; z-index: 31;}
 

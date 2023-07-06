@@ -224,7 +224,7 @@ footer{float: left; color: #fff; padding-top: 7px;}
 
 /* ============================= main layout ====================== */
 h1{ font-family:'Ubuntu'; font-weight:700; font-size:36px; color:#e66939; line-height:36px; padding:0px 0 25px 0; margin: 0;
-text-decoration: underline;}
+}
 
 h2{ font-family:'Ubuntu'; font-weight:700; font-size:28px; color:#e66939; line-height:28px; padding:25px 0 25px 0; margin: 0;}
 
